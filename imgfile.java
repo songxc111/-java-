@@ -10,10 +10,10 @@ import java.time.LocalDate;
 import java.util.UUID;
 
 public class imgfile {
-//    源文件目录
-    public static final String SOURCE_PATH = "C:\\Users\\91916\\Downloads\\图片助手(ImageAssistant)_批量图片下载器\\simpcity.cr\\Trans_-_OnlyFans_-_remigumi_SimpCity_ForumsNoteThread_starterStart_dateTagsStyle_variation";
-//    目标文件目录
-    public static final String TARGET_PATH = "C:\\Users\\91916\\Downloads\\图片助手(ImageAssistant)_批量图片下载器\\simpcity.cr\\remigumi_img\\";
+//    源文件目录 写上你自己的文件
+    public static final String SOURCE_PATH = "";
+//    目标文件目录 写上你自己的文件
+    public static final String TARGET_PATH = "";
     public static void main(String[] args) {
 
         File f = new File(SOURCE_PATH);
